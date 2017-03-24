@@ -2,7 +2,7 @@
   "name": "react-svg",
   "version": "2.1.19",
   "description": "A react.js svg component for loading svg files into the dom.",
-  "main": "lib/index.js",
+  "main": "src/index.js",
   "scripts": {
     "clean": "rimraf dist lib",
     "lint": "eslint .",
